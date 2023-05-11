@@ -7,3 +7,4 @@ Next step is to run through "slicers" document to set up Cura (or Slic3r) for Kl
 Configured start and end gcode in kipper, need to check variables
 Variables OK
 Configuring extruder
+Since 16 microsteps seems to be the going number, I'm changing all steppers to 16
