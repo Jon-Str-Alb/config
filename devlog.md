@@ -5,3 +5,5 @@ Ran thru "configuration checks", stepper motors, heaters and endstops seem to be
 Ran pid calibration on extruder, updated pid values
 Next step is to run through "slicers" document to set up Cura (or Slic3r) for Klipper
 Configured start and end gcode in kipper, need to check variables
+Variables OK
+Configuring extruder
