@@ -4,3 +4,4 @@ I may consider switching to the "printer-Konstantin.cfg", which is from 2021 and
 Ran thru "configuration checks", stepper motors, heaters and endstops seem to be working
 Ran pid calibration on extruder, updated pid values
 Next step is to run through "slicers" document to set up Cura (or Slic3r) for Klipper
+Configured start and end gcode in kipper, need to check variables
