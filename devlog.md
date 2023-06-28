@@ -23,3 +23,10 @@ Configured pressure advance for Klipper at 0.035
 
 5/23/23
 I reconfigured the pressure advance using the tuning tower at 0.1094
+
+6/22/23
+consider adding "square_corner_velocity" instead of print jerk?
+
+6/28/23
+all prints seem to be overextruding after klipper update,
+    reverting extrusion variables in printer config to stock
